@@ -15,6 +15,6 @@ Zero padding is done for samples with less than 16 frames.
 Random mirroring of the samples done during training.
   
 **To Be Done**  
-Cross validation against 5 sets
-Generation of metrices
-Documentation
+Cross validation against 5 sets  
+Generation of metrices  
+Documentation  
