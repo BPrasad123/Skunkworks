@@ -16,4 +16,5 @@ Random mirroring of the samples done during training.
   
 **To Be Done**  
 Cross validation against 5 sets
+Generation of metrices
 Documentation
