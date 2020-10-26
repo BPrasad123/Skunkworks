@@ -1,7 +1,7 @@
 
-**WIP**
+**----WIP----**
   
-**Paper**
+**Paper**  
 https://paperswithcode.com/paper/co-occurrence-feature-learning-from-skeleton  
   
 **Code References and Inspiration**  
